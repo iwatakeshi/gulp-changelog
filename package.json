@@ -2,7 +2,7 @@
   "name": "gulp-changelog",
   "version": "1.0.0",
   "description": "Dylang's changelog for gulp.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "directories": {
     "test": "test"
   },
