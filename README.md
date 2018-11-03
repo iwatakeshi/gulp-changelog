@@ -1,7 +1,7 @@
 # gulp-changelog
 [Dylang's changelog](https://github.com/dylang/changelog) for gulp.
 
-[![Build Status](https://travis-ci.org/iwatakeshi/gulp-changelog.svg)](https://travis-ci.org/iwatakeshi/gulp-changelog)
+[![Build Status](https://travis-ci.org/iwatakeshi/gulp-changelog.svg)](https://travis-ci.org/iwatakeshi/gulp-changelog) [![Greenkeeper badge](https://badges.greenkeeper.io/iwatakeshi/gulp-changelog.svg)](https://greenkeeper.io/)
 
 ## Usage
 
